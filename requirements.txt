@@ -1,0 +1,7 @@
+requests
+Pillow
+matplotlib
+numpy
+scikit-image
+tqdm
+colorthief
